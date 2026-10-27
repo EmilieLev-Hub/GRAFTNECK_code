@@ -10,3 +10,5 @@ source code for GRAFTNECK study
 2) for results over PDL1/CD3/CD8 and CD20 over multiple comparisons as Figure 2 and Figure S4 : "script_IHC_Fig2_FigS4.R"
 
 *Calculation and results for comparison over the six predefined functional pathways defined in the article : "script_scores_table3.R"
+
+*A csv.file 'Example_data.csv' has been producted in order to understand how it has to be edited for scripts over preparation results table and for calculation over the six predefined pathways scores.
